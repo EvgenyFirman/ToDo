@@ -66,6 +66,8 @@ button {
   font-size: 30px;
   padding-bottom: 6px;
   border-width: 0;
+  outline: none;
+  cursor: pointer;
 }
 
 input[type="text"] {
